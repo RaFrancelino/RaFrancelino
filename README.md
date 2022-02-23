@@ -5,9 +5,9 @@
 
 - 🌱 Eu procuro estudar através da construção de projetos de Ciência de Dados e por meio de cursos da área em geral. **Recentemente fiz meu primeiro projeto de Análise de Dados, sobre a Covid-19 no estado da Paraíba.**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/RaFrancelino/RaFrancelino](https://github.com/RaFrancelino/RaFrancelino)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/RaFrancelino?tab=repositories](https://github.com/RaFrancelino?tab=repositories)
 
-- 📫 Fale comigo em **ra.francelino@hotmail.com**
+- 📫 Fale comigo pelo meu email em **ra.francelino@hotmail.com**
 
 - 📄 Saiba mais sobre mim [https://www.linkedin.com/in/raissa-francelino/](https://www.linkedin.com/in/raissa-francelino/)
 

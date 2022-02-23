@@ -1,4 +1,4 @@
-<h1 align="center">Olá, Eu sou a Raissa 🙋‍♀️</h1>
+<h1 align="center">Olá, eu sou a Raissa 🙋‍♀️</h1>
 <h3 align="center">Uma engenheira, apaixonada pela Ciência de dados!</h3>
 
 - 🔭 Atualmente estou estudando para me tornar uma Cientista de dados!

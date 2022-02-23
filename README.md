@@ -7,7 +7,7 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/RaFrancelino?tab=repositories](https://github.com/RaFrancelino?tab=repositories)
 
-- 📫 Fale comigo pelo meu email em **ra.francelino@hotmail.com**
+- 📫 Fale comigo pelo meu email **ra.francelino@hotmail.com**
 
 - 📄 Saiba mais sobre mim [https://www.linkedin.com/in/raissa-francelino/](https://www.linkedin.com/in/raissa-francelino/)
 

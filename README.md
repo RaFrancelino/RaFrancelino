@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="https://github.com/RaFrancelino/RaFrancelino/blob/main/assets/header-github.gif">
+  <img src="https://github.com/RaFrancelino/RaFrancelino/blob/main/assets/header-github.gif" width="1000">
 </p>
 
 <!--
@@ -11,6 +11,7 @@ Then i recorded my screen to gif on Mac with Quicktime  and save result to [asse
 This [GIF converter](https://ezgif.com/video-to-gif) help me to create a dedicated command that convert MOV to GIF.
 Then i save result to [assets/github.gif](assets/github.gif)
 -->
+***
 
 - 🔭 Atualmente estou estudando para me tornar uma Cientista de dados!
 - 🌱 Eu procuro estudar através da construção de projetos de Ciência de Dados e por meio de cursos da área em geral. **Recentemente fiz meu primeiro projeto de Análise de Dados, sobre a Covid-19 no estado da Paraíba.**

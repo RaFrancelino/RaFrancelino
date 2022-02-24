@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/97925292/155435068-65c16ebf-b5fc-42fc-8e5d-733770755375.jpg" width="1100" height="500">
+
 <h1 align="center">Olá, eu sou a Raissa 🙋‍♀️</h1>
 <h3 align="center">Uma engenheira, apaixonada pela Ciência de dados!</h3>
 

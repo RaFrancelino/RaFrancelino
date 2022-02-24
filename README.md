@@ -1,4 +1,17 @@
 <p align="center"> <img src="https://user-images.githubusercontent.com/97925292/155532570-6933dba6-f6eb-4fae-a642-799fb623f324.png" width="500" height="300"/> 
+  
+<p align="center"> <img src="https://github.com/RaFrancelino/RaFrancelino/raw/main/assets/header-github.gif" width="500" height="300"/>
+  
+<!--
+How to make the bio gif ?
+💜 Thanks to [matyo91](https://github.com/matyo91)
+
+I made my with https://codesandbox.io/s/github-profile-2ijk7
+Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
+This [GIF converter](https://ezgif.com/video-to-gif) help me to create a dedicated command that convert MOV to GIF.
+Then i save result to [assets/github.gif](assets/github.gif)
+-->
+  
 <h1 align="center">Olá, eu sou a Raissa 🙋‍♀️</h1>
 <h3 align="center">Uma engenheira, apaixonada pela Ciência de dados!</h3>
 

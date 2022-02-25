@@ -14,7 +14,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 ***
 
 - 🔭 Atualmente estou estudando para me tornar uma Cientista de dados!
-- 🌱 Eu procuro estudar através da construção de projetos de Ciência de Dados e por meio de cursos da área em geral. **Recentemente fiz meu primeiro projeto de Análise de Dados, sobre a Covid-19 no estado da Paraíba.**
+- 🌱 Eu procuro estudar através da construção de projetos de Ciência de Dados e por meio de cursos da área em geral. **Recentemente fiz meu primeiro projeto de Análise de Dados, sobre a Vacinação da Covid-19 no estado da Paraíba.**
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/RaFrancelino?tab=repositories](https://github.com/RaFrancelino?tab=repositories)
 - 📫 Fale comigo pelo meu email **ra.francelino@hotmail.com**
 - 📄 Saiba mais sobre mim [https://www.linkedin.com/in/raissa-francelino/](https://www.linkedin.com/in/raissa-francelino/)

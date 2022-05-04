@@ -18,7 +18,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/RaFrancelino?tab=repositories](https://github.com/RaFrancelino?tab=repositories)
 - 📫 Fale comigo pelo meu email **ra.francelino@hotmail.com**
 - 📄 Saiba mais sobre mim [https://www.linkedin.com/in/raissa-francelino/](https://www.linkedin.com/in/raissa-francelino/)
-- 🤹‍♀️ Habilidades: Tenho facilidade de trabalhar em equipe, possuo experiência profissional tanto na área técnica (engenharia), como na área de **negócios**.
+- 🤹‍♀️ Habilidades: Tenho facilidade de trabalhar em equipe, e possuo experiência profissional tanto na área técnica (engenharia), como na área de **negócios**.
 - ⚡ Curiosidades sobre mim: **Amo praticar esportes e viajar ✈️**
 - 🛠️ **Algumas linguagens e ferramentas que eu uso:**
 

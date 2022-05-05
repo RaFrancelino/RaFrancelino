@@ -19,7 +19,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
   Clique [aqui](https://github.com/RaFrancelino/Data_Analysis_Covid19) para dar uma olhada!
 
 - 📄 Conheça mais sobre mim em meu [linkedin](https://www.linkedin.com/in/raissa-francelino/).
-- 📫 Se precisar entrar em contato, fale comigo pelo meu email **ra.francelino@hotmail.com**
+- 📫 Se precisar entrar em contato, fale comigo pelo meu email **ra.francelino@hotmail.com**.
 - 🛠️ **Algumas linguagens e ferramentas que eu uso:**
 
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>

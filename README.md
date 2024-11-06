@@ -13,8 +13,8 @@ Then i save result to [assets/github.gif](assets/github.gif)
 -->
 ***
 
-- 🔭 Atualmente estou estudando para conseguir uma oportunidade na área de Dados!
-- 🌱 Eu procuro estudar através da construção de projetos de Ciência de Dados e por meio de cursos da área em geral. Recentemente fiz meu primeiro projeto de **Machine Learning**, com o objetivo de **Prever o preço das casas de Ames, Iowa (USA)**. Clique [aqui](https://github.com/RaFrancelino/House_Prices) para dar uma olhada!
+- 🔭 Atualmente trabalho como analista de dados em uma companhia de seguros de saúde!
+- 🌱 Também estou cursando pós graduação em ciência de dados e big data. Há um tempo atrás fiz meu primeiro projeto de **Machine Learning**, com o objetivo de **Prever o preço das casas de Ames, Iowa (USA)**. Clique [aqui](https://github.com/RaFrancelino/House_Prices) para dar uma olhada!
 - 👨‍💻 Outro projeto que construi foi para **Analisar os dados** de Vacinação da **Covid-19** no estado da Paraíba. 
   Clique [aqui](https://github.com/RaFrancelino/Data_Analysis_Covid19) para dar uma olhada!
 
